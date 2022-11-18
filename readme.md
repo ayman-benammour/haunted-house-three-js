@@ -1,4 +1,4 @@
-# Haunted house Three.js
+# Haunted house - Three.js
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
